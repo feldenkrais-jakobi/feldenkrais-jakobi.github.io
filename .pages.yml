@@ -1,0 +1,15 @@
+content:
+  - name: termine
+    label: "Termine"
+    type: file
+    path: content/termine-body.html
+    format: raw
+    fields:
+      - name: body
+        label: "Inhalt"
+        type: rich-text
+        options:
+          format: html
+        description: >-
+          Hier die Termine bearbeiten. Änderungen werden nach dem Speichern
+          automatisch veröffentlicht (ca. 1 Minute).
