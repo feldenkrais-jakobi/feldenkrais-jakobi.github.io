@@ -1,5 +1,6 @@
 ---
 title: "FI (Einzelunterricht)"
+description: "FI (Funktionale Integration): Feldenkrais-Einzelbehandlung bei Heinrich Jakobi im Saarland. Individuelle Arbeit gegen Schmerzen und Bewegungsblockaden."
 bodyclass: "tm-isblog  tm-sidebar-width-30 tm-sidebar-background-fixed tm-ct-spacing-false tm-cb-spacing-false fi-einzelunterricht"
 breadcrumb: "<li><a href=\"/\">Startseite</a></li><li class=\"uk-active\"><span>FI (Einzelunterricht)</span></li>"
 active_fi_einzelunterricht: true

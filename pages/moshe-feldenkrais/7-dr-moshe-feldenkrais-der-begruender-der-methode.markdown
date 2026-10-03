@@ -1,5 +1,6 @@
 ---
 title: "Dr. Moshé Feldenkrais"
+description: "Die Biografie von Dr. Moshé Feldenkrais, dem Begründer der Feldenkrais-Methode: Werdegang, Einflüsse und die Entwicklung der Methode."
 bodyclass: "tm-isblog  tm-sidebar-width-30 tm-sidebar-background-fixed tm-ct-spacing-false tm-cb-spacing-false moshe-feldenkrais"
 breadcrumb: "<li><a href=\"/\">Startseite</a></li><li><a href=\"/moshe-feldenkrais.html\">Moshé Feldenkrais</a></li><li class=\"uk-active\"><span>Dr. Moshé Feldenkrais</span></li>"
 active_moshe_feldenkrais: true

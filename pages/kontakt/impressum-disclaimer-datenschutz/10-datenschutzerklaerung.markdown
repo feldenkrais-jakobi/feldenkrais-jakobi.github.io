@@ -1,5 +1,6 @@
 ---
 title: "Datenschutzerklärung"
+description: "Datenschutzerklärung der Feldenkrais-Praxis Heinrich Jakobi: Informationen zum Umgang mit Daten und zum Hosting der Website."
 bodyclass: "tm-isblog  tm-sidebar-width-30 tm-sidebar-background-fixed tm-ct-spacing-false tm-cb-spacing-false impressum-disclaimer-datenschutz"
 breadcrumb: "<li><a href=\"/\">Startseite</a></li><li><a href=\"/kontakt.html\">Kontakt </a></li><li><a href=\"/kontakt/impressum-disclaimer-datenschutz.html\">Impressum, Disclaimer, Datenschutz</a></li><li class=\"uk-active\"><span>Datenschutzerklärung</span></li>"
 active_kontakt: true

@@ -1,5 +1,6 @@
 ---
 title: "Impressum, Disclaimer, Datenschutz"
+description: "Impressum, Disclaimer und Datenschutz der Feldenkrais-Praxis Heinrich Jakobi in Nohfelden (Saarland)."
 bodyclass: "tm-isblog  tm-sidebar-width-30 tm-sidebar-background-fixed tm-ct-spacing-false tm-cb-spacing-false impressum-disclaimer-datenschutz"
 breadcrumb: "<li><a href=\"/\">Startseite</a></li><li><a href=\"/kontakt.html\">Kontakt </a></li><li class=\"uk-active\"><span>Impressum, Disclaimer, Datenschutz</span></li>"
 active_kontakt: true

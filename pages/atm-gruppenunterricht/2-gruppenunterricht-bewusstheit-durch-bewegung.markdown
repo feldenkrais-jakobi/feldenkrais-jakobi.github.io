@@ -1,5 +1,6 @@
 ---
 title: "Gruppenunterricht"
+description: "Gruppenunterricht Bewusstheit durch Bewegung (ATM): Feldenkrais-Kurse in der Gruppe im Saarland. Mehr Beweglichkeit, weniger Verspannungen und Schmerzen."
 bodyclass: "tm-isblog  tm-sidebar-width-30 tm-sidebar-background-fixed tm-ct-spacing-false tm-cb-spacing-false atm-gruppenunterricht"
 breadcrumb: "<li><a href=\"/\">Startseite</a></li><li><a href=\"/atm-gruppenunterricht.html\">ATM (Gruppenunterricht)</a></li><li class=\"uk-active\"><span>Gruppenunterricht</span></li>"
 active_atm_gruppenunterricht: true
