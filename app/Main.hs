@@ -1,6 +1,8 @@
 {-# LANGUAGE NoImplicitPrelude #-}
 {-# LANGUAGE OverloadedStrings #-}
 
+import Data.Functor ((<&>))
+import Data.List (isSuffixOf)
 import Hakyll
 import Prelude
 import Text.Pandoc.Extensions (Extension (Ext_smart), disableExtension)
@@ -27,13 +29,31 @@ main =
       compile copyFileCompiler
 
     create ["sitemap.xml"] do
+      pages <- getMatches "pages/**"
+      let urls = pageUrl <$> pages
       route idRoute
-      compile $ do
-        pages <- loadAll "pages/**"
-        makeItem $ sitemap pages
+      compile . makeItem $ sitemap urls
 
     match "templates/*" $ compile templateBodyCompiler
   where
+    sitemap urls =
+      "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
+        <> "<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n"
+        <> mconcat (urls <&> \u -> "  <url><loc>" <> siteUrl <> u <> "</loc></url>\n")
+        <> "</urlset>\n"
+
+    siteUrl :: String
+    siteUrl = "https://feldenkrais-jakobi.de"
+
+    pageUrl identifier = "/" <> toHtml (drop 6 $ toFilePath identifier)
+
+    toHtml path = stripSuffix' ".markdown" path <> ".html"
+
+    stripSuffix' :: (Eq a) => [a] -> [a] -> [a]
+    stripSuffix' suffix str
+      | suffix `isSuffixOf` str = take (length str - length suffix) str
+      | otherwise = str
+
     getTemplate = do
       identifier <- getUnderlying
       fmap (fromFilePath . ("templates/" <>)) <$> getMetadataField identifier "template"
