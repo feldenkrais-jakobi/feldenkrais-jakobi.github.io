@@ -1,15 +1,31 @@
 content:
-  - name: termine
-    label: "Termine"
+  - name: kurse
+    label: "Aktuelle Kurse"
     type: file
-    path: content/termine-body.html
+    path: content/termine-kurse.html
     format: raw
     fields:
       - name: body
-        label: "Inhalt"
+        label: "Aktuelle Kurse"
         type: rich-text
         options:
           format: html
         description: >-
-          Hier die Termine bearbeiten. Änderungen werden nach dem Speichern
-          automatisch veröffentlicht (ca. 1 Minute).
+          Hier die Kurse bearbeiten: Kursdatum aktualisieren und vergangene
+          Kurse löschen. Änderungen werden nach dem Speichern automatisch
+          veröffentlicht (etwa 1–5 Minuten).
+  - name: einzelbehandlung
+    label: "Einzelbehandlung (FI)"
+    type: file
+    path: content/termine-einzelbehandlung.html
+    format: raw
+    fields:
+      - name: body
+        label: "Einzelbehandlung (FI)"
+        type: rich-text
+        options:
+          format: html
+        description: >-
+          Hier Adresse, Preis und Kontaktdaten der Einzelbehandlung
+          aktualisieren. Änderungen werden nach dem Speichern automatisch
+          veröffentlicht (etwa 1–5 Minuten).
