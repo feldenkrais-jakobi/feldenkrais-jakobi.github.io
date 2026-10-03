@@ -63,6 +63,7 @@ textarea#jform_contact_message {
 
 .tm-content-wrapper .tm-content-container {
   background-color: transparent;
+  padding-top: 0;
 }
 
 .tm-content-container .uk-panel-box.slider {
@@ -167,43 +168,40 @@ a.tm-sidebar-logo p,
 }
 
 .home_slideshow .uk-slidenav-position {
-	position: relative;
-	min-height: 480px;
+	height: 0;
+	padding-bottom: 35.5556%;
+	background-image: url("../../../../../images/slider/feldenkreis-jakobi_06.jpg");
+	background-size: cover;
+	background-position: center;
 }
 
-.home_slideshow img {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: auto;
-	opacity: 0;
-	animation: tm-slideshow 28s infinite;
+body.die-methode .home_slideshow .uk-slidenav-position {
+	background-image: url("../../../../../images/slider/feldenkreis-jakobi_02.jpg");
 }
 
-.home_slideshow img:nth-child(1) { animation-delay: 0s; }
-.home_slideshow img:nth-child(2) { animation-delay: 4s; }
-.home_slideshow img:nth-child(3) { animation-delay: 8s; }
-.home_slideshow img:nth-child(4) { animation-delay: 12s; }
-.home_slideshow img:nth-child(5) { animation-delay: 16s; }
-.home_slideshow img:nth-child(6) { animation-delay: 20s; }
-.home_slideshow img:nth-child(7) { animation-delay: 24s; }
-
-@keyframes tm-slideshow {
-	0% { opacity: 0; }
-	1.4% { opacity: 1; }
-	12.9% { opacity: 1; }
-	14.3% { opacity: 0; }
-	100% { opacity: 0; }
+body.atm-gruppenunterricht .home_slideshow .uk-slidenav-position {
+	background-image: url("../../../../../images/slider/feldenkreis-jakobi_01.jpg");
 }
 
-@media (prefers-reduced-motion: reduce) {
-	.home_slideshow img {
-		animation: none;
-	}
-	.home_slideshow img:first-child {
-		opacity: 1;
-	}
+body.fi-einzelunterricht .home_slideshow .uk-slidenav-position {
+	background-image: url("../../../../../images/slider/feldenkreis-jakobi_04.jpg");
+}
+
+body.moshe-feldenkrais .home_slideshow .uk-slidenav-position {
+	background-image: url("../../../../../images/slider/feldenkreis-jakobi_05.jpg");
+}
+
+body.ueber-mich .home_slideshow .uk-slidenav-position {
+	background-image: url("../../../../../images/slider/feldenkreis-jakobi_07.jpg");
+}
+
+body.termine .home_slideshow .uk-slidenav-position {
+	background-image: url("../../../../../images/slider/feldenkreis-jakobi_03.jpg");
+}
+
+body.kontakt .home_slideshow .uk-slidenav-position,
+body.impressum-disclaimer-datenschutz .home_slideshow .uk-slidenav-position {
+	background-image: url("../../../../../images/slider/feldenkreis-jakobi_01.jpg");
 }
 
 @font-face {
