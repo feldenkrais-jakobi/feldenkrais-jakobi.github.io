@@ -29,7 +29,7 @@ main =
       compile copyFileCompiler
 
     create ["sitemap.xml"] do
-      pages <- getMatches "pages/**"
+      pages <- filter ((/= "pages/1-startseite.markdown") . toFilePath) <$> getMatches "pages/**"
       let urls = pageUrl <$> pages
       route idRoute
       compile . makeItem $ sitemap urls
@@ -45,7 +45,9 @@ main =
     siteUrl :: String
     siteUrl = "https://feldenkrais-jakobi.de"
 
-    pageUrl identifier = "/" <> toHtml (drop 6 $ toFilePath identifier)
+    pageUrl identifier
+      | toFilePath identifier == "pages/index.markdown" = "/"
+      | otherwise = "/" <> toHtml (drop 6 $ toFilePath identifier)
 
     toHtml path = stripSuffix' ".markdown" path <> ".html"
 
