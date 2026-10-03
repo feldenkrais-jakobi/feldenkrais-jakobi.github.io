@@ -44,7 +44,7 @@ D-66625 Nohfelden (Mosberg-Richweiler)<br />
 bei St. Wendel (Saarland)<br />
 <br />
 Telefon: +49 (0)6857 675 0660<br />
-E-Mail: feldenkrais-jakobi(a.t.)posteo.de					<br />
+E-Mail: <a href="mailto:feldenkrais-jakobi@posteo.de">feldenkrais-jakobi@posteo.de</a>					<br />
 				</span>
 			</dd>
 

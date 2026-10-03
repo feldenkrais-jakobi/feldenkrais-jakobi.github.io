@@ -16,7 +16,7 @@ Im Eck 2\
 66625 Nohfelden (Saarland)
 
 Telefon: +49 (0)6857 675 0660\
-E-Mail: feldenkrais-jakobi (a\...t\...)posteo.de
+E-Mail: [feldenkrais-jakobi@posteo.de](mailto:feldenkrais-jakobi@posteo.de)
 
 **Verantwortlich für den Inhalt** (gem. § 55 Abs. 2 RStV):\
 Heinrich Jakobi (Saarland)
