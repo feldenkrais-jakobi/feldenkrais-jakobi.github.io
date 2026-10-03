@@ -17,8 +17,8 @@ active_ueber_mich: true
 - 6-jährige Meisterklasse-Fortbildung bei Yehudit Silver
   *(Feldenkrais-Talmi-Methode)*
 
-*\"Wer seine Schranken kennt, kann sie auch überwinden\"*
+*"Wer seine Schranken kennt, kann sie auch überwinden"*
 
 *"Ein Heute ist besser als zwei Morgen"*
 
-*\"Nur tote Fische schwimmen mit dem Strom\"*
+*"Nur tote Fische schwimmen mit dem Strom"*

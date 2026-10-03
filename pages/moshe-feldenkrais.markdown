@@ -7,8 +7,8 @@ active_moshe_feldenkrais: true
 
 <h1>Dr. Moshé Feldenkrais - <br />Der Begründer der Methode</h1>
 
-[Die kurze Biografie eines höchst \"bemerkenswerten
-Menschen\"]{.tm-underline}:\
+[Die kurze Biografie eines höchst "bemerkenswerten
+Menschen"]{.tm-underline}:\
 \
 1904 in Slawuta/Ukraine geboren\
 Als Jugendlicher emigriert er nach Palästina und arbeitet dort als
@@ -31,8 +31,8 @@ Eine schwere Knieverletzung aus früherer Zeit macht ihm erneut das
 Laufen unmöglich. Die damaligen Operationsaussichten gaben kaum Hoffnung
 auf Heilung. So beschließt er sich selbst zu helfen und experimentiert
 über Monate mit kleinen langsamen Bewegungen.\
-Dabei beobacht und spürt er präzise und bis ins kleinste Detail, \"was
-dabei wie\" geschieht und studiert alles, was er an medizinischer
+Dabei beobacht und spürt er präzise und bis ins kleinste Detail, "was
+dabei wie" geschieht und studiert alles, was er an medizinischer
 Fachliteratur über Körpermechanik und über das Nervensystem finden
 kann.\
 Daraus entwickelt er eine höchst strukturierte Methode aufmerksamer
@@ -45,8 +45,8 @@ Grundstein zu seiner nach seinem Namen benannten Methode gelegt.
 
  
 
-1949 erscheint sein Buch \"Der Weg zum reifen Selbst\" (\"Body and
-Mature Behaviour: A Study of Anxiety, Sex, Gravitation and Learning\")
+1949 erscheint sein Buch "Der Weg zum reifen Selbst" ("Body and
+Mature Behaviour: A Study of Anxiety, Sex, Gravitation and Learning")
 .\
 Während dieser Zeit in London studiert er unter anderen die Arbeiten von
 G.I. Gurdjieff, Ida Rolf (Begründerin v. Rolfing), F.M. Alexander
@@ -65,13 +65,13 @@ Wadler). Diese erste Ausbildung ging über 3 Jahre und fand täglich
 statt.
 
 1968 erscheinen seine Bücher: „Bewusstheit durch Bewegung", „Der
-Aufrechte Gang\" und „Abenteuer im Dschungel des Gehirns: Der Fall
-Doris\".
+Aufrechte Gang" und „Abenteuer im Dschungel des Gehirns: Der Fall
+Doris".
 
-In den siebziger Jahren wächst im \"Westen\" das Interesse an
+In den siebziger Jahren wächst im "Westen" das Interesse an
 ganzheitlichen Therapieformen. In Nordamerika entstehen unter seiner
 Leitung weitere Ausbildungen mit großer Teilnehmerzahl, u.a. in Esalen
-und Amherst. Nun erfährt die \"Feldenkrais Methode\" internationale
+und Amherst. Nun erfährt die "Feldenkrais Methode" internationale
 Anerkennung.\
 \
 Zu seinen Schülern gehören Menschen mit chronischen Schmerzen, mit
@@ -86,19 +86,19 @@ praktische Umsetzung.
 Wurde M. Feldenkrais jedoch danach gefragt, wer ihn am meisten
 beeinflusst hatte, war seine Antwort:\
 G.I. Gurdjieff. Er lernte dessen Arbeit zuerst während seiner Londoner
-Zeit über J.G. Bennett und seiner Frau Elizabeth in \"Coombe Springs,
-Kingston upon Thames\" kennen, später aber viel vertiefter in Paris über
+Zeit über J.G. Bennett und seiner Frau Elizabeth in "Coombe Springs,
+Kingston upon Thames" kennen, später aber viel vertiefter in Paris über
 J. de Salzmann und in Zusammenarbeit mit dem Regisseur Peter Brook.
 Immer wieder empfahl Moshe Feldenkrais Schülern, die tiefer verstehen
 wollten, das Buch:\
-\"Auf der Suche nach dem Wunderbaren\" v. P.D. Ouspensky.
+"Auf der Suche nach dem Wunderbaren" v. P.D. Ouspensky.
 
 Mit Peter Brook (und dessen Theatergruppe) arbeitet er ab 1978 
 regelmässig  in Paris. Peter Brook schreibt zu dem herausragenden Buch
-\"Embodied Wisdom\", the Collected Papers of Moshe Feldenkrais im
+"Embodied Wisdom", the Collected Papers of Moshe Feldenkrais im
 Vorwort:\
-\"Feldenkrais has studied the body in movement with a precision that I
-have found nowhere else\".\
+"Feldenkrais has studied the body in movement with a precision that I
+have found nowhere else".\
 Wenn man nun weiss, wie tief P. Brook sein ganzes Leben lang u.a. mit
 Körperarbeit arbeitete, wird man natürlich sofort wissen, dass diese
 Aussage ein einzigartiges Kompliment bedeutet, von einem Meister an

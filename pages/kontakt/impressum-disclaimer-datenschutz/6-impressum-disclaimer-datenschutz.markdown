@@ -29,9 +29,10 @@ rel="noopener"}\
 © Inga Paas - [Feldenkraiszentrum
 Neuss](http://www.feldenkraiszentrum.de/){target="_blank"
 rel="noopener"}\
-© Richard Dvořák  -
-[dvorak.photography](http://dvorak.photography/gallery/){target="_blank"
-rel="noopener"}
+**Entwurf, Konzept und Realisierung:**\
+Originaldesign von
+[R3D Internet Dienstleistungen](https://www.r3d.de/){target="_blank"
+rel="noopener"} (Joomla/YOOtheme-Vorlage „Aurora“).
 
 
 
@@ -51,8 +52,8 @@ Nutzung der Website des Anbieters kommt keinerlei Vertragsverhältnis
 zwischen dem Nutzer und dem Anbieter zustande.\
 \
 § 2 Externe Links\
-Diese Website enthält Verknüpfungen zu Websites Dritter (\"externe
-Links\"). Diese Websites unterliegen der Haftung der jeweiligen
+Diese Website enthält Verknüpfungen zu Websites Dritter ("externe
+Links"). Diese Websites unterliegen der Haftung der jeweiligen
 Betreiber. Der Anbieter hat bei der erstmaligen Verknüpfung der externen
 Links die fremden Inhalte daraufhin überprüft, ob etwaige Rechtsverstöße
 bestehen. Zu dem Zeitpunkt waren keine Rechtsverstöße ersichtlich. Der
