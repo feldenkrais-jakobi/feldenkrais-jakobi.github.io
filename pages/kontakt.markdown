@@ -8,25 +8,25 @@ active_kontakt: true
 
 ```{=html}
 <div class="contact" itemscope="" itemtype="https://schema.org/Person">
-	
+
 			<div class="page-header">
 			<h2>
 								<span class="contact-name" itemprop="name">Heinrich Jakobi</span>
 			</h2>
 		</div>
-	
-	
-	
-	
-	
-	
-	
-			
-						<h3>Kontakt</h3>		
+
+
+
+
+
+
+
+
+						<h3>Kontakt</h3>
 					<div class="thumbnail pull-right">
 				<img src="/images/bilder/Heiner-Jakobi-220.jpg" alt="Heinrich Jakobi" itemprop="image" />			</div>
-		
-		
+
+
 		<dl class="contact-address dl-horizontal" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress">
 			<dt>
 			<span class="jicons-text">
@@ -47,19 +47,19 @@ Telefon: +49 (0)6857 675 0660<br />
 E-Mail: feldenkrais-jakobi(a.t.)posteo.de					<br />
 				</span>
 			</dd>
-		
-									
+
+
 
 </dl>
 
-		
-			
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
+
 	</div>
 ```
