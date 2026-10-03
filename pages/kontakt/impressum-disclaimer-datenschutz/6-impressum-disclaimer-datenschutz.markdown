@@ -11,10 +11,9 @@ active_impressum: true
 					Impressum			</h1>
 
 Heinrich Jakobi\
-Im Eck 2\
-66625 Nohfelden (Saarland)
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Im%20Eck%202%2C%2066625%20Nohfelden%2C%20Deutschland" target="_blank" rel="noopener">Im Eck 2, 66625 Nohfelden (Saarland)</a>
 
-Telefon: +49 (0)6857 675 0660\
+Telefon: <a href="tel:+4968576750660">+49 (0)6857 675 0660</a>\
 E-Mail: [feldenkrais-jakobi@posteo.de](mailto:feldenkrais-jakobi@posteo.de)
 
 **Verantwortlich für den Inhalt** (gem. § 55 Abs. 2 RStV):\

@@ -39,11 +39,10 @@ active_kontakt: true
 (Ausbildung Feldenkrais Verband Deutschland)<br />
 Heilpraktiker<br />
 <br />
-Im Eck 2<br />
-D-66625 Nohfelden (Mosberg-Richweiler)<br />
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Im%20Eck%202%2C%2066625%20Nohfelden%2C%20Deutschland" target="_blank" rel="noopener">Im Eck 2, D-66625 Nohfelden (Mosberg-Richweiler)</a><br />
 bei St. Wendel (Saarland)<br />
 <br />
-Telefon: +49 (0)6857 675 0660<br />
+Telefon: <a href="tel:+4968576750660">+49 (0)6857 675 0660</a><br />
 E-Mail: <a href="mailto:feldenkrais-jakobi@posteo.de">feldenkrais-jakobi@posteo.de</a>					<br />
 				</span>
 			</dd>
