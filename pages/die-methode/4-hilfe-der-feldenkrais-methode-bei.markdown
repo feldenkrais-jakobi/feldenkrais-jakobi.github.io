@@ -1,5 +1,5 @@
 ---
-title: "Die Feldenkrais-Methode"
+title: "Die Feldenkrais-Methode - Feldenkrais Heinrich Jakobi"
 description: "Wann hilft die Feldenkrais-Methode? Bei Rücken-, Hüft-, Knie- und Gelenkschmerzen, Verspannungen, Stress und mehr. Praxis Heinrich Jakobi, Nohfelden (Saarland)."
 bodyclass: "tm-isblog  tm-sidebar-width-30 tm-sidebar-background-fixed tm-ct-spacing-false tm-cb-spacing-false die-methode"
 breadcrumb: "<li><a href=\"/\">Startseite</a></li><li><a href=\"/die-methode.html\">Die Methode</a></li><li class=\"uk-active\"><span>Die Feldenkrais-Methode</span></li>"

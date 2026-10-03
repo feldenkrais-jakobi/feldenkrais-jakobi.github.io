@@ -1,5 +1,5 @@
 ---
-title: "Heinrich Jakobi"
+title: "Heinrich Jakobi - Feldenkrais Heinrich Jakobi"
 description: "Heinrich Jakobi, lizenzierter Feldenkrais-Lehrer und Heilpraktiker im Saarland: Ausbildung, Werdegang und Praxis in Nohfelden bei St. Wendel."
 bodyclass: "tm-isblog  tm-sidebar-width-30 tm-sidebar-background-fixed tm-ct-spacing-false tm-cb-spacing-false ueber-mich"
 breadcrumb: "<li><a href=\"/\">Startseite</a></li><li><a href=\"/ueber-mich.html\">über mich</a></li><li class=\"uk-active\"><span>Heinrich Jakobi</span></li>"

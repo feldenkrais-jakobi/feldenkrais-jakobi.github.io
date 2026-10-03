@@ -1,5 +1,5 @@
 ---
-title: "Moshé Feldenkrais"
+title: "Moshé Feldenkrais - Feldenkrais Heinrich Jakobi"
 description: "Dr. Moshé Feldenkrais: Biografie des Begründers der Feldenkrais-Methode. Über sein Leben, seine Arbeit und die Entwicklung der Methode."
 bodyclass: "tm-isblog  tm-sidebar-width-30 tm-sidebar-background-fixed tm-ct-spacing-false tm-cb-spacing-false moshe-feldenkrais"
 breadcrumb: "<li><a href=\"/\">Startseite</a></li><li class=\"uk-active\"><span>Moshé Feldenkrais</span></li>"

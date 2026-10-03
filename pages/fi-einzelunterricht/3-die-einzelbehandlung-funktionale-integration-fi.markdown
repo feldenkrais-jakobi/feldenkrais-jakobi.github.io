@@ -1,5 +1,5 @@
 ---
-title: "Die Einzelbehandlung"
+title: "Die Einzelbehandlung - Feldenkrais Heinrich Jakobi"
 description: "Die Feldenkrais-Einzelbehandlung (FI): individuelle Arbeit an Haltung, Bewegung und Schmerzen. Praxis Heinrich Jakobi in Nohfelden bei St. Wendel."
 bodyclass: "tm-isblog  tm-sidebar-width-30 tm-sidebar-background-fixed tm-ct-spacing-false tm-cb-spacing-false fi-einzelunterricht"
 breadcrumb: "<li><a href=\"/\">Startseite</a></li><li><a href=\"/fi-einzelunterricht.html\">FI (Einzelunterricht)</a></li><li class=\"uk-active\"><span>Die Einzelbehandlung</span></li>"

@@ -22,6 +22,16 @@ main =
 
     match "content/*" $ compile templateBodyCompiler
 
+    match "robots.txt" do
+      route idRoute
+      compile copyFileCompiler
+
+    create ["sitemap.xml"] do
+      route idRoute
+      compile $ do
+        pages <- loadAll "pages/**"
+        makeItem $ sitemap pages
+
     match "templates/*" $ compile templateBodyCompiler
   where
     getTemplate = do

@@ -1,5 +1,5 @@
 ---
-title: "über mich"
+title: "über mich - Feldenkrais Heinrich Jakobi"
 description: "Heinrich Jakobi: lizenzierter Feldenkrais-Lehrer und Heilpraktiker in Nohfelden (Mosberg-Richweiler) bei St. Wendel im Saarland."
 bodyclass: "tm-isblog  tm-sidebar-width-30 tm-sidebar-background-fixed tm-ct-spacing-false tm-cb-spacing-false ueber-mich"
 breadcrumb: "<li><a href=\"/\">Startseite</a></li><li class=\"uk-active\"><span>über mich</span></li>"
