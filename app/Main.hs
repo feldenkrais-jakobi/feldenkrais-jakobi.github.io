@@ -12,7 +12,7 @@ import Text.Pandoc.Options (ReaderOptions (readerExtensions))
 main :: IO ()
 main =
   hakyll do
-    mapM_ copyAssets ["theme/**", "media/**", "plugins/**", "images/**", "CNAME"]
+    mapM_ copyAssets ["theme/**", "media/**", "plugins/**", "images/**", "CNAME", "google*.html"]
 
     match "pages/**" do
       route $ gsubRoute "pages/" (const "") `composeRoutes` setExtension "html"
