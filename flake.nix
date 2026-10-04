@@ -93,7 +93,7 @@
         executable = {
           enable = true;
           source-dirs = "app";
-          dependencies = ["hakyll" "pandoc"];
+          dependencies = ["hakyll" "pandoc" "time"];
         };
       };
       envs.dev = {

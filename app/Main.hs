@@ -3,6 +3,7 @@
 
 import Data.Functor ((<&>))
 import Data.List (isSuffixOf)
+import Data.Time (defaultTimeLocale, formatTime, getCurrentTime)
 import Hakyll
 import Prelude
 import Text.Pandoc.Extensions (Extension (Ext_smart), disableExtension)
@@ -19,7 +20,7 @@ main =
         body <- pandocCompilerWith readerOptions defaultHakyllWriterOptions
         template <- getTemplate
         (maybe pure (`loadAndApplyTemplate` defaultContext) template body)
-          >>= loadAndApplyTemplate "templates/default.html" defaultContext
+          >>= loadAndApplyTemplate "templates/default.html" (defaultContext <> copyrightYear)
           >>= relativizeUrls
 
     match "content/*" $ compile templateBodyCompiler
@@ -64,6 +65,10 @@ main =
       match pattern' do
         route idRoute
         compile copyFileCompiler
+
+    copyrightYear =
+      field "copyrightyear" \_ ->
+        recompilingUnsafeCompiler $ formatTime defaultTimeLocale "%Y" <$> getCurrentTime
 
     readerOptions =
       defaultHakyllReaderOptions
