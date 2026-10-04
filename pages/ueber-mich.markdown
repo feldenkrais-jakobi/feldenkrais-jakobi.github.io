@@ -8,7 +8,7 @@ active_ueber_mich: true
 
 # Heinrich Jakobi
 
-![jakobi](/images/bilder/Heiner-Jakobi.jpg){width="220" height="228"
+![jakobi](/images/bilder/Heiner-Jakobi-220.jpg){width="220" height="228"
 .uk-float-right .uk-margin-left}geb. Dez. 1958
 
 - Feldenkrais-Ausbildung bei Chava Shelhav
