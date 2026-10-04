@@ -30,6 +30,22 @@
           };
       pname = "fjakobi-site";
       system = config.pkgs.stdenv.hostPlatform.system;
+      open-sans-woff2 =
+        config.pkgs.runCommand "open-sans-woff2" {
+          nativeBuildInputs = [
+            (config.pkgs.python3.withPackages (ps: [ps.brotli ps.fonttools]))
+          ];
+        } ''
+          mkdir -p $out
+          for style in Light LightItalic Regular Italic; do
+            pyftsubset ${config.pkgs.open-sans}/share/fonts/truetype/OpenSans-$style.ttf \
+              --output-file=$out/OpenSans-$style.woff2 \
+              --flavor=woff2 \
+              --drop-tables=kern \
+              --unicodes=U+0-10FFFF \
+              --layout-features='*'
+          done
+        '';
     in {
       cabal = {
         author = "Marc Jakobi";
@@ -86,6 +102,8 @@
           ''
             NIX_MONITOR=disable nix run .#gen-cabal
             NIX_MONITOR=disable nix run .#tags
+            mkdir -p theme/yoo_aurora/fonts/opensans
+            cp -f ${open-sans-woff2}/*.woff2 theme/yoo_aurora/fonts/opensans/
           ''
           + self.checks.${system}.git.shellHook;
         buildInputs = self.checks.${system}.git.enabledPackages;
@@ -94,6 +112,8 @@
         packages = with config; let
           site-pkg = self.packages.${system}.default;
         in {
+          inherit open-sans-woff2;
+
           website = pkgs.stdenv.mkDerivation {
             name = "website";
             src = self.outPath;
@@ -109,6 +129,8 @@
 
             buildPhase = ''
               runHook preBuild
+              mkdir -p theme/yoo_aurora/fonts/opensans
+              cp ${open-sans-woff2}/*.woff2 theme/yoo_aurora/fonts/opensans/
               ${lib.getExe' site-pkg "fjakobi-site"} build --verbose
               runHook postBuild
             '';

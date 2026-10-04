@@ -19,3 +19,4 @@ files/*
 .jj/
 .serena/
 .pre-commit-config.yaml
+theme/yoo_aurora/fonts/opensans/*.woff2
