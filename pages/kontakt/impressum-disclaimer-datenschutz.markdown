@@ -7,9 +7,7 @@ active_kontakt: true
 active_impressum: true
 ---
 
-<h1 class="uk-article-title">
-					<a href="/kontakt/impressum-disclaimer-datenschutz/6-impressum-disclaimer-datenschutz.html" title="Impressum">Impressum</a>
-			</h1>
+<h1 class="uk-article-title">Impressum</h1>
 
 Heinrich Jakobi\
 <a href="https://www.google.com/maps/search/?api=1&amp;query=Im%20Eck%202%2C%2066625%20Nohfelden%2C%20Deutschland" target="_blank" rel="noopener">Im Eck 2, 66625 Nohfelden (Saarland)</a>
@@ -95,11 +93,7 @@ rel="noopener"} und
 [hier](http://www.juraforum.de/rechtsanwalt/anwalt-muenchen/){target="_blank"
 rel="noopener"} einen Rechtsanwalt in Ihrer Nähe suchen.
 
-<h1 class="uk-article-title">
-					<a href="/kontakt/impressum-disclaimer-datenschutz/10-datenschutzerklaerung.html" title="Datenschutzerklärung">Datenschutzerklärung</a>
-			</h1>
-
-## Datenschutz
+<h2 id="datenschutz">Datenschutzerklärung</h2>
 
 Diese Website erhebt selbst keine personenbezogenen Daten. Eine
 Kontaktaufnahme erfolgt über die im Impressum angegebenen Kontaktdaten.

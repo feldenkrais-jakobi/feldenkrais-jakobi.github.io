@@ -87,9 +87,10 @@ praktische Umsetzung.
 Wurde M. Feldenkrais jedoch danach gefragt, wer ihn am meisten
 beeinflusst hatte, war seine Antwort:\
 G.I. Gurdjieff. Er lernte dessen Arbeit zuerst während seiner Londoner
-Zeit über J.G. Bennett und seiner Frau Elizabeth in "Coombe Springs,
-Kingston upon Thames" kennen, später aber viel vertiefter in Paris über
-J. de Salzmann und in Zusammenarbeit mit dem Regisseur Peter Brook.
+Zeit über J.G. Bennett und dessen Frau Elizabeth Mayall Bennett (die ich
+selbst persönlich gut kannte) in "Coombe Springs, Kingston upon Thames"
+kennen, später aber viel vertiefter in Paris über J. de Salzmann und in
+Zusammenarbeit mit dem Regisseur Peter Brook.
 Immer wieder empfahl Moshe Feldenkrais Schülern, die tiefer verstehen
 wollten, das Buch:\
 "Auf der Suche nach dem Wunderbaren" v. P.D. Ouspensky.

@@ -6,9 +6,7 @@ breadcrumb: "<li><a href=\"/\">Startseite</a></li><li class=\"uk-active\"><span>
 active_die_methode: true
 ---
 
-<h1 class="uk-article-title">
-					<a href="/die-methode/4-hilfe-der-feldenkrais-methode-bei.html" title="Die Feldenkrais-Methode">Die Feldenkrais-Methode</a>
-			</h1>
+<h1 class="uk-article-title">Die Feldenkrais-Methode</h1>
 
 Die Feldenkrais-Methode ist u.a. eine Hilfe zur Selbsthilfe um bei
 Beschwerden des Bewegungssystems diese entweder aufzulösen, zu mildern

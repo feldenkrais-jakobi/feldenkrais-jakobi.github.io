@@ -29,7 +29,7 @@ main =
       compile copyFileCompiler
 
     create ["sitemap.xml"] do
-      pages <- filter ((/= "pages/1-startseite.markdown") . toFilePath) <$> getMatches "pages/**"
+      pages <- getMatches "pages/**"
       let urls = pageUrl <$> pages
       route idRoute
       compile . makeItem $ sitemap urls

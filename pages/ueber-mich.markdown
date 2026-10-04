@@ -6,9 +6,7 @@ breadcrumb: "<li><a href=\"/\">Startseite</a></li><li class=\"uk-active\"><span>
 active_ueber_mich: true
 ---
 
-<h1 class="uk-article-title">
-					<a href="/ueber-mich/5-heinrich-jakobi-geb-dez-1958.html" title="Heinrich Jakobi">Heinrich Jakobi</a>
-			</h1>
+<h1 class="uk-article-title">Heinrich Jakobi</h1>
 
 ![jakobi](/images/bilder/Heiner-Jakobi.jpg){width="220" height="228"
 .uk-float-right .uk-margin-left}geb. Dez. 1958
