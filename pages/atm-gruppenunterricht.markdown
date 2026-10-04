@@ -6,7 +6,7 @@ breadcrumb: "<li><a href=\"/\">Startseite</a></li><li class=\"uk-active\"><span>
 active_atm_gruppenunterricht: true
 ---
 
-<h1>Der Gruppenunterricht:<br />Bewusstheit durch Bewegung</h1>
+# Der Gruppenunterricht: <br>Bewusstheit durch Bewegung
 
 ## **ATM**: **A**wareness **T**hrough **M**otion
 

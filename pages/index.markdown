@@ -6,7 +6,11 @@ bodyclass: "tm-isblog  tm-sidebar-width-30 tm-sidebar-background-fixed tm-ct-spa
 breadcrumb: "<li class=\"uk-active\"><span>Startseite</span></li>"
 ---
 
-<h1 class="uk-article-title">Willkommen zur Feldenkrais-Methode im Saarland und im Kreis St. Wendel sowie meiner Feldenkrais-Praxis</h1> <h3>Wasser fliesst ----- Eis ist starr und unbeweglich<br /><br />Feldenkrais hilft Ihnen, dass Sie sich von alten starren Mustern lösen können um eine neue Beweglichkeit mit weniger Schwerzen und Einengung zu erlangen.</h3>
+# Willkommen zur Feldenkrais-Methode im Saarland und im Kreis St. Wendel sowie meiner Feldenkrais-Praxis
+
+### Wasser fliesst ----- Eis ist starr und unbeweglich
+
+### Feldenkrais hilft Ihnen, dass Sie sich von alten starren Mustern lösen können um eine neue Beweglichkeit mit weniger Schwerzen und Einengung zu erlangen.
 
 Wenn Sie sich in Ihrer Beweglichkeit eingeschränkt oder gehindert
 fühlen, ist die Feldenkrais-Methode eine sehr wirkungsvolle Möglichkeit,

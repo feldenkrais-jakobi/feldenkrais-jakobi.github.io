@@ -6,7 +6,7 @@ breadcrumb: "<li><a href=\"/\">Startseite</a></li><li class=\"uk-active\"><span>
 active_fi_einzelunterricht: true
 ---
 
-<h1>Die Feldenkrais Einzelbehandlung:<br /><strong>F</strong>unktionale <strong>I</strong>ntegration (FI)</h1>
+# Die Feldenkrais Einzelbehandlung: <br>**F**unktionale **I**ntegration (FI)
 
 In der Feldenkraismethode genügt es nicht, nur einzelne (schmerzhafte
 oder blockierte) Bereiche für sich zu behandeln, es wird der ganze

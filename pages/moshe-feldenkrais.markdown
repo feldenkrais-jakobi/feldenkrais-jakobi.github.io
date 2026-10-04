@@ -6,7 +6,7 @@ breadcrumb: "<li><a href=\"/\">Startseite</a></li><li class=\"uk-active\"><span>
 active_moshe_feldenkrais: true
 ---
 
-<h1>Dr. Moshé Feldenkrais - <br />Der Begründer der Methode</h1>
+# Dr. Moshé Feldenkrais - <br>Der Begründer der Methode
 
 [Die kurze Biografie eines höchst "bemerkenswerten
 Menschen"]{.tm-underline}:\
