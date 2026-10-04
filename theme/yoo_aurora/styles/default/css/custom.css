@@ -1,14 +1,12 @@
 body {
-	min-height: 100vh;height:auto;
+	min-height: 100vh;
+	height: auto;
 	background-color: #DE996F;
 	background-repeat: repeat-x;
 	background-image: url(../images/background/content-bg.jpg);
 	background-attachment: fixed;
- }
+}
 
-
-.btn:hover, 
-.btn:focus, 
 ul.uk-nav.uk-nav-navbar li a,
 ul.uk-nav.uk-nav-navbar li.uk-active a:hover,
 ul.uk-nav.uk-nav-navbar li.uk-active a:focus {
@@ -16,59 +14,26 @@ ul.uk-nav.uk-nav-navbar li.uk-active a:focus {
   color: #ffffff;
 }
 
-.contact > dl.contact-address dt span {
-	background-color: red;
-	display: none;
-}
-.contact > dl.contact-address dd {
-	margin: 0;
-	padding: 0;
-	
-}
-
-
-
 .tm-sidebar-wrapper {
     background: url("../images/background/sidebar.jpg") no-repeat scroll 0% 0%, #E3F8EF url("../images/background/tile.jpg") repeat scroll 0% 0%;
 }
 
-.uk-panel-box-secondary > h3.uk-panel-title,
-h3.uk-panel-title {
-  padding-bottom: 0px;
-  color: #b52912;
+section.tm-content-top > div.uk-width-1-1 {
+	top: 0;
+	padding-top: 0;
+	margin-top: 0;
 }
-
-section.tm-content-top > div.uk-width-1-1 {top: 0;padding-top: 0;margin-top: 0;}
-
-.uk-article > p > a > span.icon-envelope { padding-left: 10px;}
 
 /* Workaround for an iOS fixed-background bug that causes horizontal scroll. */
 .tm-sidebar-wrapper {
   background-repeat: repeat;
 }
-textarea#jform_contact_message {
-	width: 100%;
-	height: 140px;
-}
-
-
-
-.tm-block-footer .uk-panel > address {
-	font-size: 0.7em;
-}
-
-
-
-
 
 .tm-content-wrapper .tm-content-container {
   background-color: transparent;
   padding-top: 0;
 }
 
-.tm-content-container .uk-panel-box.slider {
-	padding: 0;
-}
 a.tm-sidebar-logo,
 a.tm-sidebar-logo p,
 .tm-sidebar-logo p img {
@@ -77,84 +42,12 @@ a.tm-sidebar-logo p,
 	text-align: left;
 }
 
-.tm-sidebar-a .uk-panel h5 {
-	padding: 0;
-	margin:20px 0 0 0;
-}
-.tm-sidebar-a .uk-panel p {
-	padding: 0;
-	margin:0 0 0 0;
-}
-
-
-.tm-content-container section.tm-top-a,
-.tm-content-container section.tm-top-a div.uk-width-1-1 {
-	margin: 0;
-	padding: 0;
-}
 .tm-wrapper .tm-content-container > hr.tm-grid-divider {
 	display: none;
-}
-.tm-wrapper .tm-content-container .slider {
-	margin: -30px 0 20px 0;
-	padding: 0;
-}
-
-@media only screen and (min-width: 320px) and (max-width: 979px) {
-	div.uk-navbar-content.uk-navbar-center {
-		margin-top: -56px;
-		margin-left: 0px;
-	}
-	div.uk-navbar-content.uk-navbar-center .tm-logo-small img {
-		width:100%;
-		max-width: 240px;
-		min-width: 240px;
-		height: auto;
-		padding-left: 20px;
-	}
-	a.uk-navbar-toggle {
-		font-size: 36px;
-	}
-	.tm-content-container .uk-panel-box {
-		
-	}
-	.tm-content-container hr.tm-grid-divider {
-		margin-top: 0px;
-		margin-bottom: 22px;
-	}
-}
-
-
-@media only screen and (min-width: 120px) and (max-width: 319px) {
-	div.uk-navbar-content.uk-navbar-center {
-		margin-top: -44px;
-		margin-left: 0px;
-	}
-	div.uk-navbar-content.uk-navbar-center .tm-logo-small img {
-		width:100%;
-		max-width: 200px;
-		min-width: 164px;
-		height: auto;
-		padding-left: 10px;
-	}
-	a.uk-navbar-toggle {
-		font-size: 24px;
-	}
-	.tm-content-container .uk-panel-box {
-		
-	}
-	.tm-content-container hr.tm-grid-divider {
-		margin-top: 0px;
-		margin-bottom: 22px;
-	}
 }
 
 .tm-underline {
 	text-decoration: underline;
-}
-
-.tm-blue {
-	color: #0c2369;
 }
 
 ::selection {
