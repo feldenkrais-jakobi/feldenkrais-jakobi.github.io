@@ -1,0 +1,199 @@
+body {
+	min-height: 100vh;
+	height: auto;
+	background-color: #DE996F;
+	background-repeat: repeat-x;
+	background-image: url(../images/background/content-bg.jpg);
+	background-attachment: fixed;
+}
+
+ul.uk-nav.uk-nav-navbar li a,
+ul.uk-nav.uk-nav-navbar li.uk-active a:hover,
+ul.uk-nav.uk-nav-navbar li.uk-active a:focus {
+  background-color: #B52912;
+  color: #ffffff;
+}
+
+.tm-sidebar-wrapper {
+    background: url("../images/background/sidebar.jpg") no-repeat scroll 0% 0%, #E3F8EF url("../images/background/tile.jpg") repeat scroll 0% 0%;
+}
+
+section.tm-content-top > div.uk-width-1-1 {
+	top: 0;
+	padding-top: 0;
+	margin-top: 0;
+}
+
+/* Workaround for an iOS fixed-background bug that causes horizontal scroll. */
+.tm-sidebar-wrapper {
+  background-repeat: repeat;
+}
+
+.tm-content-wrapper .tm-content-container {
+  background-color: transparent;
+  padding-top: 0;
+}
+
+a.tm-sidebar-logo,
+a.tm-sidebar-logo p,
+.tm-sidebar-logo p img {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+
+.tm-wrapper .tm-content-container > hr.tm-grid-divider {
+	display: none;
+}
+
+.tm-underline {
+	text-decoration: underline;
+}
+
+::selection {
+	background: #c47d47;
+	color: #ffffff;
+}
+
+::-moz-selection {
+	background: #c47d47;
+	color: #ffffff;
+}
+
+.home_slideshow .uk-slidenav-position {
+	height: 0;
+	padding-bottom: 35.5556%;
+	background-image: url("../../../../../images/slider/feldenkreis-jakobi_06.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+body.die-methode .home_slideshow .uk-slidenav-position {
+	background-image: url("../../../../../images/slider/feldenkreis-jakobi_02.jpg");
+}
+
+body.atm-gruppenunterricht .home_slideshow .uk-slidenav-position {
+	background-image: url("../../../../../images/slider/feldenkreis-jakobi_01.jpg");
+}
+
+body.fi-einzelunterricht .home_slideshow .uk-slidenav-position {
+	background-image: url("../../../../../images/slider/feldenkreis-jakobi_04.jpg");
+}
+
+body.moshe-feldenkrais .home_slideshow .uk-slidenav-position {
+	background-image: url("../../../../../images/slider/feldenkreis-jakobi_05.jpg");
+}
+
+body.ueber-mich .home_slideshow .uk-slidenav-position {
+	background-image: url("../../../../../images/slider/feldenkreis-jakobi_07.jpg");
+}
+
+body.termine .home_slideshow .uk-slidenav-position {
+	background-image: url("../../../../../images/slider/feldenkreis-jakobi_03.jpg");
+}
+
+body.kontakt .home_slideshow .uk-slidenav-position,
+body.impressum-disclaimer-datenschutz .home_slideshow .uk-slidenav-position {
+	background-image: url("../../../../../images/slider/feldenkreis-jakobi_01.jpg");
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: url('../../../fonts/opensans/OpenSans-Light.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: italic;
+	font-weight: 300;
+	font-display: swap;
+	src: url('../../../fonts/opensans/OpenSans-LightItalic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('../../../fonts/opensans/OpenSans-Regular.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: italic;
+	font-weight: 400;
+	font-display: swap;
+	src: url('../../../fonts/opensans/OpenSans-Italic.woff2') format('woff2');
+}
+
+.tm-menu-toggle {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	opacity: 0;
+	pointer-events: none;
+}
+
+.tm-menu-toggle:focus ~ .tm-menu-toggle-label {
+	outline: 2px solid #b52912;
+}
+
+.tm-menu-toggle-label {
+	display: none;
+}
+
+.tm-totop-scroller::after {
+	content: "\2191";
+	font-family: inherit;
+}
+
+@media only screen and (max-width: 959px) {
+	.tm-sidebar-wrapper {
+		background: #E3F8EF url("../images/background/tile.jpg") repeat scroll 0% 0%;
+	}
+
+	.tm-sidebar-width-30 .tm-sidebar-wrapper,
+	.tm-sidebar-width-30 .tm-content-wrapper {
+		width: 100%;
+	}
+
+	.tm-sidebar-width-30 .tm-sidebar-wrapper {
+		min-height: 0;
+	}
+
+	.tm-sidebar-wrapper .tm-sidebar-menu-container {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		justify-content: space-between;
+		padding: 8px 12px;
+	}
+
+	.tm-sidebar-wrapper .tm-sidebar-menu-container .tm-sidebar-logo {
+		margin: 0;
+	}
+
+	.tm-menu-toggle-label {
+		display: inline-block;
+		margin: 0;
+		padding: 8px 14px;
+		cursor: pointer;
+		background-color: rgba(252, 252, 252, 0.7);
+		color: #c47d47;
+		font-weight: 400;
+	}
+
+	.tm-sidebar-nav,
+	.tm-sidebar-menu-container > section {
+		display: none;
+		flex-basis: 100%;
+	}
+
+	.tm-menu-toggle:checked ~ .tm-sidebar-nav,
+	.tm-menu-toggle:checked ~ section {
+		display: block;
+	}
+}
