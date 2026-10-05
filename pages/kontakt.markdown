@@ -1,6 +1,6 @@
 ---
-title: "Kontakt – Feldenkrais Heinrich Jakobi, Nohfelden"
-description: "Kontakt zur Feldenkrais-Praxis Heinrich Jakobi in Nohfelden (Mosberg-Richweiler) bei St. Wendel im Saarland: Adresse, Telefon und E-Mail."
+title: "Kontakt – Feldenkrais in Nohfelden bei St. Wendel (Saarland)"
+description: "Kontakt zur Feldenkrais-Praxis Heinrich Jakobi in Nohfelden bei St. Wendel (Saarland): Feldenkrais-Einzelbehandlung und Gruppenkurse – Adresse und Telefon."
 bodyclass: "tm-noblog  tm-sidebar-width-30 tm-sidebar-background-fixed tm-ct-spacing-false tm-cb-spacing-false kontakt"
 breadcrumb: "<li><a href=\"/\">Startseite</a></li><li class=\"uk-active\"><span>Kontakt </span></li>"
 active_kontakt: true

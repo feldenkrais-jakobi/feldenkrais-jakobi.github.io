@@ -1,6 +1,6 @@
 ---
-title: "ATM Gruppenunterricht im Saarland – Feldenkrais"
-description: "ATM (Bewusstheit durch Bewegung): Feldenkrais-Gruppenunterricht bei Heinrich Jakobi in Nohfelden und St. Wendel im Saarland. Termine und Anmeldung."
+title: "Feldenkrais Gruppenunterricht in St. Wendel (Saarland)"
+description: "Feldenkrais-Gruppenunterricht (ATM) im Kneippverein St. Wendel: Feldenkrais-Kurse im Saarland für mehr Beweglichkeit und weniger Verspannungen."
 bodyclass: "tm-isblog  tm-sidebar-width-30 tm-sidebar-background-fixed tm-ct-spacing-false tm-cb-spacing-false atm-gruppenunterricht"
 breadcrumb: "<li><a href=\"/\">Startseite</a></li><li class=\"uk-active\"><span>ATM (Gruppenunterricht)</span></li>"
 active_atm_gruppenunterricht: true

@@ -1,6 +1,6 @@
 ---
-title: "Feldenkrais im Saarland – Heinrich Jakobi"
-description: "Feldenkrais-Praxis Heinrich Jakobi in Nohfelden bei St. Wendel (Saarland): Einzelbehandlung, Gruppenunterricht (ATM) und Kurse. Mehr Beweglichkeit, weniger Schmerzen."
+title: "Feldenkrais in St. Wendel (Saarland) – Heinrich Jakobi"
+description: "Feldenkrais in Nohfelden bei St. Wendel: Feldenkrais-Einzelbehandlung (FI), Gruppenunterricht (ATM) und Kurse im Saarland für mehr Beweglichkeit."
 canonical: "https://feldenkrais-jakobi.de/"
 bodyclass: "tm-isblog  tm-sidebar-width-30 tm-sidebar-background-fixed tm-ct-spacing-false tm-cb-spacing-false startseite"
 breadcrumb: "<li class=\"uk-active\"><span>Startseite</span></li>"

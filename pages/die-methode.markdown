@@ -1,6 +1,6 @@
 ---
-title: "Die Methode - Feldenkrais Heinrich Jakobi"
-description: "Die Feldenkrais-Methode: eine ganzheitliche Lernmethode für Bewegungsapparat, Psyche und Geist. Erfahren Sie, wie Feldenkrais im Saarland hilft."
+title: "Die Feldenkrais-Methode im Saarland – Heinrich Jakobi"
+description: "Die Feldenkrais-Methode im Saarland: wie Feldenkrais Bewegungsapparat, Psyche und Geist stärkt und zu mehr Beweglichkeit verhilft – bei Heinrich Jakobi."
 bodyclass: "tm-isblog  tm-sidebar-width-30 tm-sidebar-background-fixed tm-ct-spacing-false tm-cb-spacing-false die-methode"
 breadcrumb: "<li><a href=\"/\">Startseite</a></li><li class=\"uk-active\"><span>Die Methode</span></li>"
 active_die_methode: true
